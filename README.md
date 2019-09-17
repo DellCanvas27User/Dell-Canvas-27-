@@ -1,5 +1,9 @@
 # Dell-Canvas-27-
-Primarily how it is Using the Dell Canvas 27"  with OpenSource Software: Mypaint, Gimp, Krita, Notes on New Appimages and NightlyBuilds
+Primarily how it is Using the Dell Canvas 27"  
+with OpenSource Software: Mypaint, Gimp, Krita, Scribus
+
+Notes on New Appimages and NightlyBuilds
+what works or Not
 
 
 
@@ -20,6 +24,6 @@ Jacque Fresno 1916 - 2017
 As illustrated by the above quote, the main reason we as a minority in a much larger group.
 The group that gets most out of the loop are those artists that make use of Open Source software exclusively: people just like you and me who want software that does not impose on their wallet or their choice of how to use and with no forced payment scheme. But also software that enables one to create and be creative without sacrificing their integrity and creative ownership. The users of software Blender, Krita, Gimp, Mypaint often have to wait in the shadows while the software products like those by Adobe Autodesk Corel Medibang Sai etc. etc get the spotlight.
 
-I guess what bothers me the most is that with all the innovation and the amazing community,  support things haven't really picked up. It is not uncommon that support and many others like me have chosen a different approach.
+I guess what bothers me the most is that with all the innovation and the amazing community,  support for some things haven't really picked up. It is not uncommon that support and many others like me have chosen a different approach.
 
 So after quite a bit of deliberation, I thought to make a small contribution for the people in the Open-source community who like to use their favorite software with high-end Hardware
